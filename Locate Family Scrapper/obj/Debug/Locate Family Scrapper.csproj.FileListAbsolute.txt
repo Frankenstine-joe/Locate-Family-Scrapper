@@ -1,0 +1,12 @@
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\bin\Debug\Locate Family Scrapper.exe.config
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\bin\Debug\Locate Family Scrapper.exe
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\bin\Debug\Locate Family Scrapper.pdb
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\bin\Debug\EntityFramework.dll
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\bin\Debug\WebDriver.dll
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\bin\Debug\EntityFramework.xml
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\bin\Debug\WebDriver.xml
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\obj\Debug\Locate Family Scrapper.csprojResolveAssemblyReference.cache
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\obj\Debug\Locate Family Scrapper.exe
+C:\Users\Frankenstine\Documents\Visual Studio 2015\Projects\Console Projects\Locate Family Scrapper\Locate Family Scrapper\obj\Debug\Locate Family Scrapper.pdb
